@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Luis+Fernando+Steinle!;Backend+Developer+%7C+PHP+%7C+Laravel;Estudando+Frontend+Moderno;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luis-ftt&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/luis-ftt?style=flat-square&color=2E9EF7&labelColor=1c1917" alt="Followers" />
-</div>
-
----
 
 ## 🚀 Sobre mim
 

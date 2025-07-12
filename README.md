@@ -39,12 +39,6 @@
 - 🏗️ **Projetos pessoais** - Aplicando conhecimentos em projetos reais
 - 📖 **Boas práticas de desenvolvimento** - Clean Code, SOLID, Design Patterns
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-ftt&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 📫 Vamos Conectar?
 
 <div align="center">

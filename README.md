@@ -32,9 +32,9 @@
 
 ---
 
-## 🎯 Atualmente Trabalhando Em
+## 🎯 Atualmente Estudando Sobre
 
-- 🔥 **Aprofundando conhecimentos em Laravel** - Explorando recursos avançados
+- 🔥 **Aprofundando conhecimentos em Laravel** - Explorando recursos
 - 🐍 **Estudando Python** - Expandindo horizontes para novas oportunidades
 - 🏗️ **Projetos pessoais** - Aplicando conhecimentos em projetos reais
 - 📖 **Boas práticas de desenvolvimento** - Clean Code, SOLID, Design Patterns

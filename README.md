@@ -1,4 +1,4 @@
-- 🛠️ **Backend Developer** especializado em PHP e Laravel
+- 🛠️ **Backend Developer** PHP e Laravel
 - 🌐 Explorando o mundo **Frontend** com JavaScript, TypeScript e TailwindCSS
 - 🎯 Focado em **qualidade de código** e **boas práticas**
 - 📚 Sempre aprendendo algo novo - atualmente **Python** e **arquitetura de sistemas**

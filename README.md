@@ -34,7 +34,7 @@
 ## 🎯 Atualmente Estudando Sobre
 
 - 🔥 **Aprofundando conhecimentos em Laravel** - Explorando recursos
-- 🐍 **Estudando Python** - Expandindo horizontes para novas oportunidades
+- 🐍 **Estudando Python** - Começando aos poucos para expandir alguns conhecimentos
 - 🏗️ **Projetos pessoais** - Aplicando conhecimentos em projetos reais
 - 📖 **Boas práticas de desenvolvimento** - Clean Code, SOLID, Design Patterns
 
